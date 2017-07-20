@@ -1,11 +1,9 @@
-Leap Motion Piano
+Vokinhzopas - A Leap Motion Piano
 ============
-
-![vokinhzopas Logo](doc/Pics/vokinhzopasLogo.png)
+<div style="text-align:center"><img src ="doc/Pics/vokinhzopasLogo.png" /></div>
 
 -----------------
-
-![Screenshot](doc/Pics/Screenshot.png)
+<div style="text-align:center"><img src ="doc/Pics/Screenshot.png" /></div>
 
 -----------------
 
