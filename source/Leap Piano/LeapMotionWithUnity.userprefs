@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OnTouch.cs">
+    <Files>
+      <File FileName="Assets\OnTouch.cs" Line="379" Column="42" />
+      <File FileName="Assets\Tools.cs" Line="43" Column="28" />
+      <File FileName="Assets\LeapMotion\Scripts\HandController.cs" Line="137" Column="11" />
+      <File FileName="Assets\LeapMotion\Scripts\Hands\HandModel.cs" Line="36" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
