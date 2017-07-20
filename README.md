@@ -13,13 +13,6 @@ Vokinhzopas - A Leap Motion Piano
 	Katya Sapozhnikov
 	Ziv Shahaf
 
-
------------------
-
-### Table of contents
-[TOC]
-
-
 -----------------
 
 Introduction
