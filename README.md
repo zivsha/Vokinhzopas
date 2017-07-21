@@ -48,12 +48,12 @@ In order to use the app you must have the following:
 
 - A Leap Motion Camera ([buy here](http://store-world.leapmotion.com/))
 - Leap Motion driver ([Download here](https://www.leapmotion.com/setup))
-- Windows 7 or 8
+- Windows 7 or later
 - A reasonable PC:
-- AMD PhenomTM II or Intel® CoreTM i3 / i5 / i7 Processor
-- 2 GB RAM
-- USB 2.0 port
-- The better the Graphical card is the better the quality & performance will be
+	- AMD PhenomTM II or Intel® CoreTM i3 / i5 / i7 Processor
+	- 2 GB RAM
+	- USB 2.0 port
+	- The better the Graphical card is the better the quality & performance will be
 - At least 1 human hand.
 
 -----------------
@@ -65,7 +65,9 @@ Project Infrastructure & Design
 We used Unity’s game engine to create a virtual world in which we could use Leap Motion’s Hand Controller.
 The application in Unity is saved as a scene.
 Unity’s IDE holds a hierarchy of game objects (as called by Unity’s lingo) for every scene, in our application we have the following:
+
 ![Hierarchy](doc/Pics/hierarchy.png)
+
 The scene also contians all the assests of the project which consists of every resource the application\editor\scence uses. Our project contains the following assets which are mostly self explantory: 
 
 ![Assets](doc/Pics/project_assets.png)
@@ -99,9 +101,11 @@ Using the script we randomly animate the audience to applause only while playing
 The script detects if the mouse is moving and when it is a GUI button appears to allow the user the choice of enabling or disabling the mouse. When the button is clicked the Icon changes and a V or X sign indicates whether the mouse can be used or not.
 
  ![Mouse Usage](doc/Pics/mouse.PNG)
+ 
 To exit the application the user should hit the Esc key and the “Quit?” GUI button [figure 2] will appear (and disappear on the next Esc key store).
 
  ![Quit Button](doc/Pics/quit.PNG)
+ 
 ##### [Script] Tools.cs 
 Static class for auxiliary functions such as:
 	Mapping Leap coordinates to world 3D coordinates
