@@ -4,6 +4,8 @@ Vokinhzopas - A Leap Motion Piano
 <img align="center" src="doc/Pics/vokinhzopasLogo.png" alt="Logo">
 
 -----------------
+
+<h3 align="center">Watch Video</h3>
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tIiTdGILxZs
 " target="_blank" ><img src="http://img.youtube.com/vi/tIiTdGILxZs/0.jpg" 
