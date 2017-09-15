@@ -1,9 +1,14 @@
 Vokinhzopas - A Leap Motion Piano
 ============
-<div style="text-align:center"><img src ="doc/Pics/vokinhzopasLogo.png" /></div>
+
+<img align="center" src="doc/Pics/vokinhzopasLogo.png" alt="Logo">
 
 -----------------
-<div style="text-align:center"><img src ="doc/Pics/Screenshot.png" /></div>
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tIiTdGILxZs
+" target="_blank" ><img src="http://img.youtube.com/vi/tIiTdGILxZs/0.jpg" 
+alt="Video of Vokinhzopas - A Leap motion Piano" width="640" height="480" border="10"/></a>
+</p>
 
 -----------------
 
